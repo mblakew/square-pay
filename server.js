@@ -16,6 +16,7 @@ const crypto = require('crypto');
 const squareConnect = require('square-connect');
 
 const app = express();
+
 const port = 3000;
 
 // Set the Access Token
